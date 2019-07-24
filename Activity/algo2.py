@@ -9,7 +9,7 @@ while bruh == True:
     print ("1. Remove a Student")
     print ("2. Add a Student")
     print ("3. Update the list")
-    print ("4. Check shit")
+    print ("4. Check the list")
 
 
 
@@ -26,7 +26,7 @@ while bruh == True:
 
     elif bruh2 == 3:
         print(bruhmoment)
-        aids = int(input("Which index?"))
+        aids = int(input("Which name?"))
         print("Change " + bruhmoment[aids] + " to?")
        
 
